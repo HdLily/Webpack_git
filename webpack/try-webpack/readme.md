@@ -6,3 +6,7 @@ why 打包？
 webpack 将现代js开发中的各种新型有用技术， 集合打包， 打包前， 无法运行 (js es6 module, style 不支持浏览器直接执行， .hbs 模板编译, .vue) 在目标容器上运行
 
 一切静态资源 =打包> 目标项目
+
+index.html： 首页模板, 
+dist 可发布的目录
+
